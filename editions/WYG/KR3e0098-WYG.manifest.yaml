@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR3e0098/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3e0098/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 神農本草經百種錄
+  date: '2015-08-24 23:08:55.076231'
+  source:
+    repository: kanripo
+    path: KR3e0098
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0098_000-WYG.yaml, hash: 'sha256:01f46a16d8dce88cbf84ef5f7fde3d7d0495c5c7d0a267ca4d4c233ea5f4d353'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0098_000-WYG.markers.yaml, hash: 'sha256:4a668689d174f793fbdf89f973a7f5fc756aa9543a2a8d83476056fac8d64c17'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0098_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 349
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0098_WYG_000-3a
+    span:
+    - body
+    - 349
+    - 972
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0098_WYG_000-5a
+    span:
+    - body
+    - 972
+    - 1389
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0098_WYG_000-7a
+    span:
+    - body
+    - 1389
+    - 19096
+  label: 神農本草經百種録
+  type: section
+  level: 1
+hash: sha256:4f6121947b32afd8720c7b46331ccd482eb4817e161f2fbf81de13f7c5440912
