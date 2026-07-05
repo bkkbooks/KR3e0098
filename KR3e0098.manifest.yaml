@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3e0098_000.yaml, hash: 'sha256:2c5159c720a99ce0c56317bb8d5f53d44efa23bb707677d68286e3b4a57126ca'}
+  - {seq: 0, filename: KR3e0098_000.yaml, hash: 'sha256:c7f43dbcae952be5997cedfc2217291e2ac85f62640576f48b7d599bb4a16e26'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0098_000.markers.yaml, hash: 'sha256:7df9962ad6520272e048c90e8eeada66cdcd08f38e0006350ce90fe95d556f1a'}
+  - {seq: 0, role: markers, filename: assets/KR3e0098_000.markers.yaml, hash: 'sha256:edbcc19d7f83bc1c04c287c55567c4cf38a454ad855b44a78381ea09636e4af0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,7 +64,4 @@ table_of_contents:
   label: 神農本草經百種録
   type: section
   level: 1
-hash: sha256:e9f56769f0280be739cd473110500488e11d49c46a8d3e8b4bbb5a0e97799982
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f998c822b8e3953e391518de2aab146aa1fd7c7a841619bc04b8dfb6e08480cb
