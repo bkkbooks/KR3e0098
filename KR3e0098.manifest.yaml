@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3e0098/v1
 canonical_location: https://kanripo.org/bkk/KR3e0098/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 神農本草經百種錄
   date: '2015-08-24 23:08:55.076231'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3e0098_000.yaml, hash: 'sha256:c7f43dbcae952be5997cedfc2217291e2ac85f62640576f48b7d599bb4a16e26'}
+  - {seq: 0, filename: KR3e0098_000.yaml, hash: 'sha256:75c45fafb93b41f01beee31b11dc51bb22da9b8e729890b651ca16ebfc788dac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0098_000.markers.yaml, hash: 'sha256:edbcc19d7f83bc1c04c287c55567c4cf38a454ad855b44a78381ea09636e4af0'}
+  - {seq: 0, role: markers, filename: assets/KR3e0098_000.markers.yaml, hash: 'sha256:cb022ae05230692f9a6e48e1a2632129d27ffd2f87bbdbcd5effa7070c70cf76'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,4 +64,7 @@ table_of_contents:
   label: 神農本草經百種録
   type: section
   level: 1
-hash: sha256:f998c822b8e3953e391518de2aab146aa1fd7c7a841619bc04b8dfb6e08480cb
+hash: sha256:f8321b891e672cd38fb6cff69ab50f612d38789279848d656b75bfb61ab04081
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
