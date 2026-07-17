@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3e0098_000-WYG.yaml, hash: 'sha256:01f46a16d8dce88cbf84ef5f7fde3d7d0495c5c7d0a267ca4d4c233ea5f4d353'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0098_000-WYG.markers.yaml, hash: 'sha256:4a668689d174f793fbdf89f973a7f5fc756aa9543a2a8d83476056fac8d64c17'}
+  - {seq: 0, role: markers, filename: assets/KR3e0098_000-WYG.markers.yaml, hash: 'sha256:6a50651fe828b4dd62c66932155e4ada098ee8b6fa105fbc186d71816064453c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,4 @@ table_of_contents:
   label: 神農本草經百種録
   type: section
   level: 1
-hash: sha256:4f6121947b32afd8720c7b46331ccd482eb4817e161f2fbf81de13f7c5440912
+hash: sha256:3f74cdf292c3cb3d74d05a7b3427f14999c48e696453c87651029d965fdb32bb

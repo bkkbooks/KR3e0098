@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3e0098_000.yaml, hash: 'sha256:75c45fafb93b41f01beee31b11dc51bb22da9b8e729890b651ca16ebfc788dac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0098_000.markers.yaml, hash: 'sha256:cb022ae05230692f9a6e48e1a2632129d27ffd2f87bbdbcd5effa7070c70cf76'}
+  - {seq: 0, role: markers, filename: assets/KR3e0098_000.markers.yaml, hash: 'sha256:9667a32ee7b1cf9ca61a697f360c8a1d88958ee5d6f62f52b6a1ba2b95e2e5f6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,7 +64,7 @@ table_of_contents:
   label: 神農本草經百種録
   type: section
   level: 1
-hash: sha256:f8321b891e672cd38fb6cff69ab50f612d38789279848d656b75bfb61ab04081
+hash: sha256:09b6d67a84415d9461a4bbe96d0b4a8966fb3bfd0a449d8e6d2007981a6e5f65
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
